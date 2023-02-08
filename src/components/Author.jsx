@@ -50,6 +50,11 @@ export function Author() {
               of all skill levels (and computer literacy) and honed my way of teaching 
               to really click for anyone who has the itch to follow their passions and 
               serve their communities in the process.
+
+              My goal is to create "Educational Expedititions" serve 100 million students. 
+              I believe that schools are failing our youth and its time to innovate how 
+              we teach. I'm rigorously testing this course so it can impact 10,000 students
+              over the next 3 years. I would love to learn from you and see how I can serve!
             </p>
             <p className="mt-8">
               <Link
