@@ -20,11 +20,11 @@ export default function Home() {
     <>
       <Head>
         <title>
-          Everything Starts as a Square - Get lost in the world of icon design
+          6 Questions, 6 Figures - Need help getting your dream job?
         </title>
         <meta
           name="description"
-          content="A book and video course that teaches you how to design your own icons from scratch. "
+          content="A group coaching program that teaches you how to design your work life. "
         />
       </Head>
       <Hero />
@@ -40,8 +40,7 @@ export default function Home() {
         }}
       >
         <p>
-          “I didn’t know a thing about icon design until I read this book. Now I
-          can create any icon I need in no time. Great resource!”
+          “I didn’t how powerful Twitter and Reddit could be. Great resource!”
         </p>
       </Testimonial>
       <Screencasts />
@@ -49,13 +48,13 @@ export default function Home() {
         id="testimonial-from-gerardo-stark"
         author={{
           name: 'Gerardo Stark',
-          role: 'Creator of Pandemicons',
+          role: 'Graduate Student',
           image: avatarImage2,
         }}
       >
         <p>
-          “I’ve tried to create my own icons in the past but quickly got
-          frustrated and gave up. Now I sell my own custom icon sets online.”
+          “I never want to sell my soul to a big corporation just to pay back my student loans.
+          I landed a job that I'm passionate about and pays the bills!”
         </p>
       </Testimonial>
       <Resources />
