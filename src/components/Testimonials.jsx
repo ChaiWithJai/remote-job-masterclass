@@ -142,7 +142,7 @@ export function Testimonials() {
         <p className="mt-4 text-lg tracking-tight text-slate-600">
           I worked with a group of students and career changers over the 
           last 10 years to make sure all of the content in the coaching program 
-          was exactly what they needed. Hears what they had to say about my 
+          was exactly what they needed. Here's what they had to say about my 
           coaching, success and teaching style.
         </p>
       </Container>

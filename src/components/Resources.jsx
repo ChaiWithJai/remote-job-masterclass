@@ -73,8 +73,8 @@ export function Resources() {
           progress even further.
         </p>
         <p className="mt-4 text-lg tracking-tight text-slate-700">
-          Design assets, icon teardowns, and a community of fellow icon
-          designers where you can ask questions, get feedback, and accelerate
+          Resume templates, strategy teardowns, and a community of fellow dream
+          chasers where you can ask questions, get feedback, and accelerate
           your learning.
         </p>
       </Container>

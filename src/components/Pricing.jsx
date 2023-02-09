@@ -138,7 +138,7 @@ export function Pricing() {
               'Resume reviews',
               'Mock interviews',
               'Salary negotiations',
-              'Tons of unsolicited advice'
+              'Life Lessons'
             ]}
           />
         </div>

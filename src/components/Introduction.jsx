@@ -19,7 +19,7 @@ export function Introduction() {
           If you stumbled upon this I’m betting that you’re in college or under 5 years out of college… and you’re wondering what would my life be like if I joined the next unicorn startup. You might have a safe path ahead of you in big tech, finance or consulting. But this excites you and you want to see what will happen if you take a risk and push yourself… because safety is overrated... you’re young, you value experience and you want to make the most of your experience living in NYC.
         </p>
         <p className="mt-4">
-          While your peers are asking, "why is is so hard to get an entry level job?". You're thinking about how you can take risks.
+          While your peers are asking, "why is it so hard to get an entry level job?". You're thinking about how you can take risks.
         </p>
         <p className="mt-4">
           In “6 Questions, 6 Figures”, you’ll learn systems to get any job you want.
