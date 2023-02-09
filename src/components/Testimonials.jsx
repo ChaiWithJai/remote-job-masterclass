@@ -17,7 +17,7 @@ const testimonials = [
   [
     {
       content:
-        'Mira’s teaching style is second to none. Everything was easy to follow every step of the way.',
+      "I learned so much about how to present myself professionally on LinkedIn, and it paid off. I was approached by several companies for job opportunities.",
       author: {
         name: 'Antonio Littel',
         role: 'Frontend Developer',
@@ -26,7 +26,7 @@ const testimonials = [
     },
     {
       content:
-        'Even though I was excited to learn, I was pessimistic that I wouldn’t actually ever get good enough to design my own icons. I was wrong — this book is all I needed.',
+        'Even though I was excited to learn, I was pessimistic that I wouldn’t actually ever be good enough to land my dream job. I was wrong — this program is all I needed.',
       author: {
         name: 'Lynn Nolan',
         role: 'Growth Marketer',
@@ -35,7 +35,7 @@ const testimonials = [
     },
     {
       content:
-        'I’ve been employed as a professional icon designer for years and still learned tons of new tricks that have made my work even better',
+        'I’ve been employed as a professional designer for years and still learned tons of new tricks that helped me land a new job with a higher position!',
       author: {
         name: 'Krista Prosacco',
         role: 'Professional Designer',
@@ -46,7 +46,7 @@ const testimonials = [
   [
     {
       content:
-        'I run an ecommerce store selling rare vintage gummy bears and could never find a good gummy bear icon. Now I can design my own in minutes.',
+      "This program helped me so much! I was able to create a strong LinkedIn profile that got me noticed by recruiters and landed me my dream job in tech.",
       author: {
         name: 'Cameron Considine',
         role: 'Entrepreneur',
@@ -54,8 +54,7 @@ const testimonials = [
       },
     },
     {
-      content:
-        'The complete package is worth it for the weekly teardown videos alone. I’ve learned so much watching Mira take apart other icons and recreate them from scratch.',
+      content: "The strategies I learned for breaking down the job search made it so much more manageable. I went from feeling overwhelmed to having a clear plan of action.",
       author: {
         name: 'Regina Wisoky',
         role: 'Design Student',
@@ -64,7 +63,7 @@ const testimonials = [
     },
     {
       content:
-        'I didn’t expect to find a lot of value in the community but now I’m in there for at least an hour every day picking up tips from other designers.',
+      "The coaching program gave me the confidence to network and make connections in the tech industry. I was able to secure a job thanks to one of the connections I made.",
       author: {
         name: 'Vernon Cummerata',
         role: 'UI Engineer',
@@ -75,7 +74,7 @@ const testimonials = [
   [
     {
       content:
-        'I couldn’t believe how fast Mira moved in Figma compared to my own workflow. I’m designing icons more accurately in half the time with the shortcuts I learned from her videos.',
+      "The storytelling techniques I learned were key to my success in landing my first tech job. I was able to articulate my experiences and skills in a way that impressed recruiters.",
       author: {
         name: 'Steven Hackett',
         role: 'Bootcamp Instructor',
@@ -84,7 +83,7 @@ const testimonials = [
     },
     {
       content:
-        'I never thought I would enjoy designing icons but using the ideas in this book, it’s become a great way for me to relax while still being creative.',
+      "The group coaching format was fantastic. Hearing other people's experiences and learning from their successes and challenges was really helpful.",
       author: {
         name: 'Carla Schoen',
         role: 'Startup Founder',
@@ -93,7 +92,7 @@ const testimonials = [
     },
     {
       content:
-        'All I can say is wow — this is easily the best icon design resource I’ve ever encountered.',
+      "The coach, Jai, was amazing! He is so supportive and knowledgeable, and helped me understand what it takes to succeed in the tech industry.",
       author: {
         name: 'Leah Kiehn',
         role: 'Creative Director',

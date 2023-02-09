@@ -6,7 +6,8 @@ import { Container } from '@/components/Container'
 import { GridPattern } from '@/components/GridPattern'
 import { SectionHeading } from '@/components/SectionHeading'
 
-function Plan({ name, description, price, features, href, featured }) {
+function Plan(props) {
+  const { name, description, price, features, href, featured } = props
   return (
     <div
       className={clsx(
@@ -82,6 +83,7 @@ function Plan({ name, description, price, features, href, featured }) {
           color={featured ? 'white' : 'slate'}
           className="mt-8"
           aria-label={`Apply for group coaching for $${price}`}
+          {...props}
         >
           Apply Now!
         </Button>
@@ -117,7 +119,8 @@ export function Pricing() {
             name="Essential"
             description="Learn everything you need to land your dream job."
             price={"Free"}
-            href="#"
+            href="https://forms.gle/1xy6X5TrkyaxeEB6A"
+            target="_"
             features={[
               'Group coaching',
               'Video lessons',
@@ -131,7 +134,8 @@ export function Pricing() {
             name="No 🧢"
             description="There's no difference. I just thought the design was cute."
             price={"Free.99"}
-            href="#"
+            href="https://forms.gle/1xy6X5TrkyaxeEB6A"
+            target="_"
             features={[
               'Group coaching',
               'Video lessons',
