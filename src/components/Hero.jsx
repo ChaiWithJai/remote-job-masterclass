@@ -1,9 +1,10 @@
+
 import Image from 'next/image'
 
 import { Button } from '@/components/Button'
 import { GridPattern } from '@/components/GridPattern'
 import { StarRating } from '@/components/StarRating'
-import coverImage from '@/images/experimental-cover.png'
+import coverImage from '@/images/experimental-cover-final.png'
 
 function Testimonial() {
   return (
@@ -12,16 +13,15 @@ function Testimonial() {
         <StarRating />
       </div>
       <blockquote className="mt-2">
-        <p className="font-display text-xl font-medium text-slate-900">
-          “This method of applying for internships and jobs should be a mandatory college course. I wish I had known this
-          method a lot sooner.”
+        <p className="font-display text-lg font-medium text-slate-900">
+          “Jai is an amazing professor! I've never had such a supportive and caring professor who focused on his students' success. He helped me understand what it takes to succeed in the tech industry.”
         </p>
       </blockquote>
       <figcaption className="mt-2 text-sm text-slate-500">
         <strong className="font-semibold text-purple-900 before:content-['—_']">
-          Preston Bourne
+          Maya Rodic
         </strong>
-        , Web Engineering Intern @ HashiCorp
+        , Branding Strategist & Business Analytics @ Beats by Dre
       </figcaption>
     </figure>
   )
@@ -49,18 +49,24 @@ export function Hero() {
         </div>
         <div className="bg-white pt-16 lg:col-span-7 lg:bg-transparent lg:pt-0 lg:pl-16 xl:pl-20">
           <div className="mx-auto px-4 sm:px-6 md:max-w-2xl md:px-4 lg:px-0">
-            <h1 className="font-display text-5xl font-extrabold text-slate-900 sm:text-6xl">
-            Need help finding your dream job?
+            <h1 className="font-display text-4xl font-extrabold text-slate-900 sm:text-5xl">
+            Escape the 9 to 5: 
             </h1>
-            <p className="mt-4 text-3xl text-slate-600">
-              Free, expert in-person group coaching (along with videos) that teaches you how to design your work life.
+            <h2 className="font-display text-3xl font-bold text-slate-900 sm:text-3xl">
+            Your Launchpad to Remote Work
+            </h2>
+            <p className="mt-4 text-md text-slate-600">
+            Fed up with the daily grind and the same old office view?
+            </p>
+            <p className="mt-4 text-md text-slate-600">
+             It's time to leap into the liberating world of remote work. <span className='font-bold'>Here, your everyday hustle is appreciated, your hours are your own, and the dreaded commute is a thing of the past.</span><br /><br /> Ready to trade the office cubicle for your comfy couch? Dive in and regain control over your work-life balance.
             </p>
             <div className="mt-8 flex gap-4">
               <Button href="#free-chapters" color="purple">
                 Watch sample lesson
               </Button>
               <Button href="#apply" variant="outline" color="purple">
-                Apply for free group coaching
+                Ready to Launch?
               </Button>
             </div>
           </div>
