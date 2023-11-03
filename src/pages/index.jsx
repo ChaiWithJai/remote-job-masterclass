@@ -20,11 +20,11 @@ export default function Home() {
     <>
       <Head>
         <title>
-          6 Questions, 6 Figures - Need help getting your dream job?
+          Need help getting a remote job? Join Remote Job Masterclass
         </title>
         <meta
           name="description"
-          content="A group coaching program that teaches you how to design your work life. "
+          content="A masterclass that teaches you how to get a remote job. "
         />
       </Head>
       <Hero />
