@@ -12,29 +12,28 @@ export function Introduction() {
     >
       <Container className="text-lg tracking-tight text-slate-700">
         <p className="font-display text-4xl font-bold tracking-tight text-slate-900">
-          “6 Questions, 6 Figures” is an in-person group coaching program that
-          teaches you how the 21st century job market works. The advice you’re getting in school is outdated.
+          Land a high paying remote job even if you don't have experience.
+          The 21st century job market doesn't require any degrees. The advice you’re getting in school is outdated.
         </p>
         <p className="mt-4">
-          If you stumbled upon this I’m betting that you’re in college or under 5 years out of college… and you’re wondering what would my life be like if I joined the next unicorn startup. You might have a safe path ahead of you in big tech, finance or consulting. But this excites you and you want to see what will happen if you take a risk and push yourself… because safety is overrated... you’re young, you value experience and you want to make the most of your experience living in NYC.
+          Before I got a remote job, I thought I needed to design my life around my finance degree. I thought I needed to get a job in the city I went to school in. I thought I needed to get a job in the industry I studied. I thought I needed to get a job that paid me enough to pay off my student loans.
         </p>
         <p className="mt-4">
-          While your peers are asking, "why is it so hard to get an entry level job?". You're thinking about how you can take risks.
+          I was wrong.
         </p>
         <p className="mt-4">
-          In “6 Questions, 6 Figures”, you’ll learn systems to get any job you want.
+          I got a remote job that paid me 6 figures (in under 6 months with no previous engineering experience) and I didn’t have to sacrifice my social life or mental health.
+        </p>
+        <p className="mt-4">
+          In the “Remote Job Masterclass”, you’ll get a set of step-by-step guides and done-for-you templates that expert career coaches who charge thousands of dollars use to land their clients a high paying remote jobs, without having any previous experience.
         </p>
         <ul role="list" className="mt-8 space-y-3">
           {[
-            'How to write a resume that gets you interviews.',
-            'How to leverage LinkedIn to build a tribe of mentors.',
-            'Where to find opportunities.',
-            'Who the 4 Gatekeepers of the job hunt are and how to talk to each of them.',
-            'How to answer any behavioral interview question.',
-            'How to prepare for interviews without sacrificing your social life and mental health.',
-            'How to negotiate like a boss.',
-            'How to identify a good “investment” —> understanding stock options.',
-            'How to get someone to take you “under their wing” and teach you the game.',
+            'Understanding the hidden costs of commuting',
+            'Where to find a job',
+            'Crafting a personalized plan for your job search',
+            'Done-for-you templates handle scenarios like being asked to return to the office',
+            'Easy scripts to follow to communicate with in-office peers',
           ].map((feature) => (
             <li key={feature} className="flex">
               <CheckIcon className="h-8 w-8 flex-none fill-purple-500" />
@@ -43,9 +42,7 @@ export function Introduction() {
           ))}
         </ul>
         <p className="mt-8">
-          By the end of the 6 weeks, you’ll have all the confidence you need to apply
-          to any role you want and not think about how you'll manage to pay NYC rent
-          or your student loans.
+          By the end of the 90 minute masterclass, you’ll have all tools you need to plan a future where you have time freedom and financial freedom and not think about how you'll manage to pay rent or your student loans.
         </p>
         <p className="mt-10">
           <Link

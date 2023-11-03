@@ -9,30 +9,30 @@ import strokesImage from '@/images/screencasts/strokes.svg'
 
 const videos = [
   {
-    title: 'How to use Twitter and Reddit',
+    title: 'Remote Job Boards',
     description:
-      'Twitter and Reddit are the most accessible places for you to get expert knowledge from people who are ahead of the curve.',
+      'Find high-paying, flexible remote opportunities (part-time or full-time).',
     image: setupImage,
     runtime: { minutes: 16, seconds: 54 },
   },
   {
-    title: 'Cold Email Mastery',
+    title: 'No Networking Required',
     description:
-      "Learn how to find anyone's email address and write a message that gets you a response.",
+      "Get exact templates and scripts to use to get your foot in the door.",
     image: gridsImage,
     runtime: { minutes: 9, seconds: 12 },
   },
   {
-    title: 'Lucrative LinkedIn Tips',
+    title: 'Maintaining Work-Life Balance',
     description:
-      'How to build a network full of VIPs and stay top of mind after you make the initial connection.',
+      'Learn how to be productive while working remotely.',
     image: strokesImage,
     runtime: { minutes: 23, seconds: 25 },
   },
   {
     title: 'Generative AI',
     description:
-      'Your class schedule keeps you hella busy. Learn how to leverage Generative AI to be your personal assistant.',
+      'Your life keeps you hella busy. Learn how to leverage Generative AI to be your personal assistant.',
     image: duotoneImage,
     runtime: { minutes: 28, seconds: 44 },
   },
@@ -66,11 +66,10 @@ export function Screencasts() {
           Screencasts
         </SectionHeading>
         <p className="mt-8 font-display text-4xl font-bold tracking-tight text-slate-900">
-          Hours of high quality, step-by-step and introspective video content to sharpen
-          your swords.
+          Advanced strategies, step-by-step guides and done-for-you templates to save your hours of time and pain.
         </p>
         <p className="mt-4 text-lg tracking-tight text-slate-700">
-          Learn how to design your own job search in a series of screencasts
+          Learn how to design your own plan toward time and financial freedom in a series of short videos
           that will teach you everything you need to know to go from anxious to
           assured.
         </p>

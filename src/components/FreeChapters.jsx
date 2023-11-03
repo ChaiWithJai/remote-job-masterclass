@@ -17,11 +17,12 @@ export function FreeChapters() {
           <Pattern className="absolute -top-32 left-0 w-full sm:left-3/4 sm:-top-5 sm:ml-8 sm:w-auto md:left-2/3 lg:left-auto lg:right-2 lg:ml-0 xl:right-auto xl:left-2/3" />
           <div>
             <h2 className="font-display text-5xl font-extrabold tracking-tight text-white sm:w-3/4 sm:text-6xl md:w-2/3 lg:w-auto">
-              Got an interview coming up soon?
+              Feeling anxious or stressed about the job hunt?
             </h2>
             <p className="mt-4 text-lg tracking-tight text-purple-200">
               Enter your email address and I’ll send you a sample from course
-              teaching you how to nail your behavioral interview.
+              teaching you which opportunities you can get with no experience in 
+              just a few weeks.
             </p>
           </div>
           <form className="lg:pl-16">

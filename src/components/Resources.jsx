@@ -21,9 +21,9 @@ const resources = [
     },
   },
   {
-    title: 'Weekly Strategy Teardowns',
+    title: 'Strategy Teardowns',
     description:
-      'Weekly videos where we dissect strategies we find on the web or hear from school.',
+      'Videos where we dissect strategies we find on the web or hear from school.',
     image: function VideoPlayerImage() {
       return (
         <div className="absolute inset-0 flex items-center justify-center">
@@ -46,7 +46,7 @@ const resources = [
   {
     title: 'Community of like-minded folks',
     description:
-      "A private Discord server where you can get help and give feedback on each others' work.",
+      "A private community server where you can get help and give feedback on each others' work.",
     image: function DiscordImage() {
       return (
         <div className="absolute inset-0 flex items-center justify-center bg-[#6366F1]">

@@ -104,45 +104,39 @@ export function Pricing() {
           Apply
         </SectionHeading>
         <p className="mt-8 font-display text-5xl font-extrabold tracking-tight text-slate-900 sm:text-6xl">
-          Apply for group coaching
+          Pick your plan
         </p>
         <p className="mt-4 max-w-xl text-lg tracking-tight text-slate-600">
-          “6 Questions, 6 Figures” is entirely free! My goal is to create a curriculum 
-          that will serve 10,000 students. And I will only be running the group coaching
-          cohort once or twice before turning this into an on-demand course. If you want 
-          to support my research and development - donations are welcome.
+          “Remote Job Masterclass” is available in two different packages so you can pick the one that's right for you.
         </p>
       </Container>
       <div className="mx-auto mt-16 max-w-5xl lg:px-6">
         <div className="grid bg-slate-50 sm:px-6 sm:pb-16 md:grid-cols-2 md:rounded-6xl md:px-8 md:pt-16 lg:p-20">
           <Plan
             name="Essential"
-            description="Learn everything you need to land your dream job."
-            price={"Free"}
+            description="Learn everything you need to land your remote job."
+            price={"29"}
             href="https://forms.gle/1xy6X5TrkyaxeEB6A"
             target="_"
             features={[
-              'Group coaching',
-              'Video lessons',
-              'Resume Reviews',
-              'Mock Interviews',
-              'Salary Negotiations'
+              'Advanced job search strategies',
+              'Done-for-you templates',
+              'Exact scripts to use',
             ]}
           />
           <Plan
             featured
-            name="No 🧢"
-            description="There's no difference. I just thought the design was cute."
-            price={"Free.99"}
+            name="Complete"
+            description="Get 1:1 coaching to create a plan you will stick to."
+            price={"297"}
             href="https://forms.gle/1xy6X5TrkyaxeEB6A"
             target="_"
             features={[
-              'Group coaching',
-              'Video lessons',
-              'Resume reviews',
-              'Mock interviews',
-              'Salary negotiations',
-              'Life Lessons'
+              'Advanced job search strategies',
+              'Done-for-you templates',
+              'Exact scripts to use',
+              '1:1 coaching call',
+              'Personalized support',
             ]}
           />
         </div>
